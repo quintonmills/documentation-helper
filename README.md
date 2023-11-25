@@ -5,6 +5,12 @@ This is a web application that answers questions about LangChain by referencing 
 Overview
 Allows users to input natural language questions about LangChain
 Retrieves relevant passages from LangChain docs to answer the questions
+
+
+![](https://github.com/quintonmills/documentation-helper/blob/main/banner.gif)
+
+
+
 Built using Streamlit for the web interface
 Leverages a Pinecone vector database to store docs passages for fast retrieval
 Uses LangChain for text embeddings and semantic search to match questions with answers
